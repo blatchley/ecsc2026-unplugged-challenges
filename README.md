@@ -12,11 +12,19 @@ The-Journey: Killerdog
 
 Rev Authors:
 
-Better-eyes: Bella
+Better-eyes: KyootyBella
 
-No-rest: Bella
+No-rest:KyootyBella
 
 Constant-Doubt: Killerdog
+
+Pwn Authors:
+
+Hello: Sibech
+
+Sheln0pcode: Sibech
+
+baby-pwn: Killerdog
 
 
 Thanks to all authors and testers:
