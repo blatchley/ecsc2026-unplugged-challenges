@@ -27,5 +27,13 @@ Sheln0pcode: Sibech
 baby-pwn: Killerdog
 
 
+Web Authors:
+
+Curling: ChattyPlatinumCool
+
+back2basics: ChattyPlatinumCool
+
+Back2.1basics: ChattyPlayitnumCool
+
 Thanks to all authors and testers:
 [full credits later]
