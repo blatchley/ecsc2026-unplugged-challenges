@@ -1,0 +1,20 @@
+You always wanted to be a flask commentator, didn't you?!
+
+But now shorter!
+
+> We added the latest version of swisskyrepo/PayloadsAllTheThings to the handout for your convenience. Feel free to ignore it or use it. Up to you.
+
+Extract the handout with:
+```sh
+mkdir back2ba; tar xf back2ba_offline.tar.xz -C back2ba
+```
+
+The laptop doesn't have internet, docker or podman, so you can't build the handout locally, but we've added a sudoless docker runtime and added a prebuilt image that you should be able to run with `./run.sh`. 
+
+If you want a shell in the container, you can run:
+```sh
+PATH="$PWD/runtime/bin:$PATH" UDOCKER_DIR="$PWD/.udocker" UDOCKER_TMP="$PWD/.udocker/tmp" python3 runtime/udocker-1.3.17/udocker/udocker --config=udocker.conf run challenge /bin/sh
+```
+
+
+[This challenge had a remote]

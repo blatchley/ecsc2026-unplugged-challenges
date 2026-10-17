@@ -1,0 +1,3 @@
+With a strong firewall, we don't need to worry about having our public and private API's separated. They can just run on the same servers - neat!
+
+[This challenge had a remote]

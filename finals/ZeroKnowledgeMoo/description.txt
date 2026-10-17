@@ -1,0 +1,6 @@
+Lets verify we both know the same secret, I'll go first then you!
+
+kd told me to change sha256 to md5, but should still be fine right?
+
+
+[this challenge has a remote]
